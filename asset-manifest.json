@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.8aabca26.chunk.css",
-    "main.js": "/portfolio/static/js/main.4ccf2828.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.4ccf2828.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.a9f76519.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.a9f76519.js.map",
-    "static/js/2.b21c74a1.chunk.js": "/portfolio/static/js/2.b21c74a1.chunk.js",
-    "static/js/2.b21c74a1.chunk.js.map": "/portfolio/static/js/2.b21c74a1.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "static/css/main.8aabca26.chunk.css.map": "/portfolio/static/css/main.8aabca26.chunk.css.map",
-    "static/js/2.b21c74a1.chunk.js.LICENSE.txt": "/portfolio/static/js/2.b21c74a1.chunk.js.LICENSE.txt",
-    "static/media/BANKgif.64119110.gif": "/portfolio/static/media/BANKgif.64119110.gif",
-    "static/media/CRUDgif.eb15948a.gif": "/portfolio/static/media/CRUDgif.eb15948a.gif",
-    "static/media/Instagram.e0394184.png": "/portfolio/static/media/Instagram.e0394184.png",
-    "static/media/Netflix.c6235014.png": "/portfolio/static/media/Netflix.c6235014.png",
-    "static/media/Portfolio.2a9981c6.png": "/portfolio/static/media/Portfolio.2a9981c6.png",
-    "static/media/angularspa.bcd4f0b8.png": "/portfolio/static/media/angularspa.bcd4f0b8.png",
-    "static/media/App.scss": "/portfolio/static/media/background.20c59e3d.jpg",
-    "static/media/store2.40b53bb3.gif": "/portfolio/static/media/store2.40b53bb3.gif"
+    "main.css": "/static/css/main.6845622c.chunk.css",
+    "main.js": "/static/js/main.4ccf2828.chunk.js",
+    "main.js.map": "/static/js/main.4ccf2828.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d0605945.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d0605945.js.map",
+    "static/js/2.b21c74a1.chunk.js": "/static/js/2.b21c74a1.chunk.js",
+    "static/js/2.b21c74a1.chunk.js.map": "/static/js/2.b21c74a1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6845622c.chunk.css.map": "/static/css/main.6845622c.chunk.css.map",
+    "static/js/2.b21c74a1.chunk.js.LICENSE.txt": "/static/js/2.b21c74a1.chunk.js.LICENSE.txt",
+    "static/media/BANKgif.64119110.gif": "/static/media/BANKgif.64119110.gif",
+    "static/media/CRUDgif.eb15948a.gif": "/static/media/CRUDgif.eb15948a.gif",
+    "static/media/Instagram.e0394184.png": "/static/media/Instagram.e0394184.png",
+    "static/media/Netflix.c6235014.png": "/static/media/Netflix.c6235014.png",
+    "static/media/Portfolio.2a9981c6.png": "/static/media/Portfolio.2a9981c6.png",
+    "static/media/angularspa.bcd4f0b8.png": "/static/media/angularspa.bcd4f0b8.png",
+    "static/media/App.scss": "/static/media/background.20c59e3d.jpg",
+    "static/media/store2.40b53bb3.gif": "/static/media/store2.40b53bb3.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.a9f76519.js",
+    "static/js/runtime-main.d0605945.js",
     "static/js/2.b21c74a1.chunk.js",
-    "static/css/main.8aabca26.chunk.css",
+    "static/css/main.6845622c.chunk.css",
     "static/js/main.4ccf2828.chunk.js"
   ]
 }
