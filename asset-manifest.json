@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.a9e7c1ce.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.4ccf2828.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.4ccf2828.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.dc04098e.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.dc04098e.js.map",
-    "static/js/2.b21c74a1.chunk.js": "/react-gh-pages/static/js/2.b21c74a1.chunk.js",
-    "static/js/2.b21c74a1.chunk.js.map": "/react-gh-pages/static/js/2.b21c74a1.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "static/css/main.a9e7c1ce.chunk.css.map": "/react-gh-pages/static/css/main.a9e7c1ce.chunk.css.map",
-    "static/js/2.b21c74a1.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.b21c74a1.chunk.js.LICENSE.txt",
-    "static/media/BANKgif.64119110.gif": "/react-gh-pages/static/media/BANKgif.64119110.gif",
-    "static/media/CRUDgif.eb15948a.gif": "/react-gh-pages/static/media/CRUDgif.eb15948a.gif",
-    "static/media/Instagram.e0394184.png": "/react-gh-pages/static/media/Instagram.e0394184.png",
-    "static/media/Netflix.c6235014.png": "/react-gh-pages/static/media/Netflix.c6235014.png",
-    "static/media/Portfolio.2a9981c6.png": "/react-gh-pages/static/media/Portfolio.2a9981c6.png",
-    "static/media/angularspa.bcd4f0b8.png": "/react-gh-pages/static/media/angularspa.bcd4f0b8.png",
-    "static/media/App.scss": "/react-gh-pages/static/media/background.20c59e3d.jpg",
-    "static/media/store2.40b53bb3.gif": "/react-gh-pages/static/media/store2.40b53bb3.gif"
+    "main.css": "/portifolio/static/css/main.e37d9c2a.chunk.css",
+    "main.js": "/portifolio/static/js/main.4ccf2828.chunk.js",
+    "main.js.map": "/portifolio/static/js/main.4ccf2828.chunk.js.map",
+    "runtime-main.js": "/portifolio/static/js/runtime-main.f22bc1d6.js",
+    "runtime-main.js.map": "/portifolio/static/js/runtime-main.f22bc1d6.js.map",
+    "static/js/2.b21c74a1.chunk.js": "/portifolio/static/js/2.b21c74a1.chunk.js",
+    "static/js/2.b21c74a1.chunk.js.map": "/portifolio/static/js/2.b21c74a1.chunk.js.map",
+    "index.html": "/portifolio/index.html",
+    "static/css/main.e37d9c2a.chunk.css.map": "/portifolio/static/css/main.e37d9c2a.chunk.css.map",
+    "static/js/2.b21c74a1.chunk.js.LICENSE.txt": "/portifolio/static/js/2.b21c74a1.chunk.js.LICENSE.txt",
+    "static/media/BANKgif.64119110.gif": "/portifolio/static/media/BANKgif.64119110.gif",
+    "static/media/CRUDgif.eb15948a.gif": "/portifolio/static/media/CRUDgif.eb15948a.gif",
+    "static/media/Instagram.e0394184.png": "/portifolio/static/media/Instagram.e0394184.png",
+    "static/media/Netflix.c6235014.png": "/portifolio/static/media/Netflix.c6235014.png",
+    "static/media/Portfolio.2a9981c6.png": "/portifolio/static/media/Portfolio.2a9981c6.png",
+    "static/media/angularspa.bcd4f0b8.png": "/portifolio/static/media/angularspa.bcd4f0b8.png",
+    "static/media/App.scss": "/portifolio/static/media/background.20c59e3d.jpg",
+    "static/media/store2.40b53bb3.gif": "/portifolio/static/media/store2.40b53bb3.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.dc04098e.js",
+    "static/js/runtime-main.f22bc1d6.js",
     "static/js/2.b21c74a1.chunk.js",
-    "static/css/main.a9e7c1ce.chunk.css",
+    "static/css/main.e37d9c2a.chunk.css",
     "static/js/main.4ccf2828.chunk.js"
   ]
 }
