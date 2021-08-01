@@ -55,7 +55,7 @@ export default function Projects({activeProject, setActiveProject}) {
     },
     { 
         title:  "Portfólio",
-        tags: [2]  ,
+        tags: [tags[2]]  ,
         img: Portfolio ,
         github: "https://github.com/MarcusMiguel/Projects"
     }]

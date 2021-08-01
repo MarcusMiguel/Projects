@@ -24,7 +24,7 @@ export default function About() {
                 Graduando em  {" "}<span ref={textRef} ></span>
                 </p>
                 <a>📧 marcusmiguel0612@gmail.com</a>
-                <a>📱 (81) - 983568673</a>
+                <a>📱 (81)983568673</a>
                 <ul>
                     <a href="https://github.com/MarcusMiguel" target="_blank"><FaGithub  size={40}/></a>
                 </ul>
