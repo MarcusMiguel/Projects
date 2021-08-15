@@ -6,6 +6,7 @@ import BANKgif from "../../Assets/Images/BANKgif.gif"
 import Netflix from "../../Assets/Images/Netflix.png"
 import Instagram from "../../Assets/Images/Instagram.png"
 import Portfolio from "../../Assets/Images/Portfolio.png"
+import Kafka from "../../Assets/Images/Kafka.png"
 
 export default function Projects({activeProject, setActiveProject}) {
   
@@ -28,6 +29,12 @@ export default function Projects({activeProject, setActiveProject}) {
         tags: [tags[3]] ,
         img: store ,
         github: "https://github.com/MarcusMiguel/SpringAPI"
+    },
+    { 
+        title:  "Kafka-Spring-Demo",
+        tags: [tags[3]]  ,
+        img: Kafka ,
+        github: "https://github.com/MarcusMiguel/Kafka_Spring_Demo"
     },
     { 
         title:  "BankAccountSystem",
@@ -58,7 +65,8 @@ export default function Projects({activeProject, setActiveProject}) {
         tags: [tags[2]]  ,
         img: Portfolio ,
         github: "https://github.com/MarcusMiguel/Projects"
-    }]
+    }
+    ]
 
     const handleClick = (s) => {
         if (activeProject !== s) setActiveProject(s)
