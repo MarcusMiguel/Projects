@@ -36,12 +36,6 @@ export default function Projects({activeProject, setActiveProject}) {
         img: Kafka ,
         github: "https://github.com/MarcusMiguel/Kafka_Spring_Demo"
     },
-    { 
-        title:  "BankAccountSystem",
-        tags: [tags[1]]  ,
-        img: BANKgif ,
-        github: "https://github.com/MarcusMiguel/.Net-Core-BankAccountSystem"
-    },
     {
         title:  "AngularSPA",
         tags: [tags[0]],
