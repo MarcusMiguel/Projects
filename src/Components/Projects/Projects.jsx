@@ -43,6 +43,12 @@ export default function Projects({activeProject, setActiveProject}) {
         github: "https://github.com/MarcusMiguel/AngularSPA"
     },
     { 
+        title:  "BankAccountSystem",
+        tags: [tags[1]]  ,
+        img: BANKgif ,
+        github: "https://github.com/MarcusMiguel/.Net-Core-BankAccountSystem"
+    },
+    { 
         title:  "Netflix Clone",
         tags: []  ,
         img: Netflix ,
