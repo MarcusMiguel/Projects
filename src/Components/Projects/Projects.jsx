@@ -7,6 +7,7 @@ import Netflix from "../../Assets/Images/Netflix.png"
 import Instagram from "../../Assets/Images/Instagram.png"
 import Portfolio from "../../Assets/Images/Portfolio.png"
 import Kafka from "../../Assets/Images/Kafka.png"
+import ConsultaSystem from "../../Assets/Images/ConsultaSystem.gif"
 
 export default function Projects({activeProject, setActiveProject}) {
   
@@ -18,6 +19,12 @@ export default function Projects({activeProject, setActiveProject}) {
     ]
 
     const projectList = [
+    { 
+        title:  "ConsultaSystem",
+        tags: [tags[1]]  ,
+        img: ConsultaSystem ,
+        github: "https://github.com/MarcusMiguel/ConsultaSystem/tree/after-deadline"
+    },
     {
         title:  "SerieCrud",
         tags: [tags[1]] ,
@@ -65,7 +72,7 @@ export default function Projects({activeProject, setActiveProject}) {
         tags: [tags[2]]  ,
         img: Portfolio ,
         github: "https://github.com/MarcusMiguel/Projects"
-    }
+    },
     ]
 
     const handleClick = (s) => {
@@ -78,18 +85,14 @@ export default function Projects({activeProject, setActiveProject}) {
             <div className="card">
                 <h1>Projetos</h1>
                 <ul>
-                     <li className={(activeProject==="Angular" && " active")} onClick={() => handleClick("Angular")}>
-                        Angular
-                    </li>
-                    <li className={(activeProject==="React" && " active")} onClick={() =>  handleClick("React")}>
-                        React
-                    </li>
-                    <li className={(activeProject===".Net" && " active")} onClick={() =>  handleClick(".Net")}>
-                        .Net
-                    </li>
-                    <li className={(activeProject==="Spring" && " active")} onClick={() =>  handleClick("Spring")}>
-                        Spring
-                    </li> 
+                {tags.map(tag => {
+                   return ( <li className={(activeProject===tag && " active")} onClick={() => handleClick(tag)}>
+                        {tag}
+                    </li>)
+                }
+                )
+                }
+                    
                 </ul>
                 <div className="projects-container">
                 {projectList.map(project => {
