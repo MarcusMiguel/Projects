@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Projects/static/css/main.08660e0b.chunk.css",
-    "main.js": "/Projects/static/js/main.87174fb4.chunk.js",
-    "main.js.map": "/Projects/static/js/main.87174fb4.chunk.js.map",
+    "main.js": "/Projects/static/js/main.77f8a3f8.chunk.js",
+    "main.js.map": "/Projects/static/js/main.77f8a3f8.chunk.js.map",
     "runtime-main.js": "/Projects/static/js/runtime-main.10d2de64.js",
     "runtime-main.js.map": "/Projects/static/js/runtime-main.10d2de64.js.map",
     "static/js/2.b21c74a1.chunk.js": "/Projects/static/js/2.b21c74a1.chunk.js",
@@ -12,6 +12,7 @@
     "static/js/2.b21c74a1.chunk.js.LICENSE.txt": "/Projects/static/js/2.b21c74a1.chunk.js.LICENSE.txt",
     "static/media/BANKgif.64119110.gif": "/Projects/static/media/BANKgif.64119110.gif",
     "static/media/CRUDgif.eb15948a.gif": "/Projects/static/media/CRUDgif.eb15948a.gif",
+    "static/media/ConsultaSystem.d0761996.gif": "/Projects/static/media/ConsultaSystem.d0761996.gif",
     "static/media/Instagram.e0394184.png": "/Projects/static/media/Instagram.e0394184.png",
     "static/media/Kafka.36d63021.png": "/Projects/static/media/Kafka.36d63021.png",
     "static/media/Netflix.c6235014.png": "/Projects/static/media/Netflix.c6235014.png",
@@ -24,6 +25,6 @@
     "static/js/runtime-main.10d2de64.js",
     "static/js/2.b21c74a1.chunk.js",
     "static/css/main.08660e0b.chunk.css",
-    "static/js/main.87174fb4.chunk.js"
+    "static/js/main.77f8a3f8.chunk.js"
   ]
 }
