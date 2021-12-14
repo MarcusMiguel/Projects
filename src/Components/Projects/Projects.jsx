@@ -82,8 +82,9 @@ export default function Projects({activeProject, setActiveProject}) {
 
     return (
         <div className="projects" id="projects">
+       <div className="project-title">Projetos</div>
+
             <div className="card">
-                <h1>Projetos</h1>
                 <ul>
                 {tags.map(tag => {
                    return ( <li className={(activeProject===tag && " active")} onClick={() => handleClick(tag)}>

@@ -5,25 +5,49 @@
 
 .projects{
     display: flex;
+    flex-direction: column;
     justify-content: center;
     width: 100%;
+    height: 100%;
     align-items: center;
-
+    .project-title{
+        font-size: 45px;
+        color: white;
+        width: 100%;
+        height: 70px;
+        font-weight: 900;
+        justify-items: center;
+        text-align: center;
+        background-color: transparent;
+        margin-bottom: 20px;
+        margin-top: -30px;
+    }
     .card{
-        width: 85%; 
-        height: 85%;
+        ::-webkit-scrollbar {
+            height: 30px;              
+            border: 1px solid #d5d5d5;
+            background: white;
+        }
+        ::-webkit-scrollbar-thumb:horizontal{
+            background: rgb(123, 150, 161);
+            border-radius: 50px;
+        }
+        width: 75%; 
+        height: 75%;
         background-color: #FFFFFF;
         font-size:16px;
         text-align: center;
-        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.877);
+        box-shadow: 0 4px 8px 0 rgb(123, 150, 161);
         transition: 0.3s;
-        border-radius: 50px; 
+        border-top-left-radius: 50px; 
+        border-top-right-radius: 50px; 
+
         ul{
             height: 15%;
             min-height: 15%;
             display: flex;
             overflow: hidden;
-            background-color: #74727227;
+            background: rgb(123, 150, 161);
             padding-left: 0;
             li{
                 align-items: center;
@@ -38,15 +62,16 @@
                 text-align: center;
                 overflow: hidden;
                 font-weight: bolder;
+                color:white;
             }
             .active{
-                background-color:rgb(70, 170, 137);
-                border-radius: 50px;
+                background-color: white;
+                color: black;
             }
         }
 
         .projects-container{
-            height: 70%;
+            height: 85%;
             width: 100%;
             display: flex;
             color: black;
@@ -77,14 +102,14 @@
         }
     }
     .card:hover {
-        box-shadow: 0 8px 106px 0 rgba(0, 0, 0, 0.979);
+        box-shadow: 0 30px 156px 0 rgb(123, 150, 161);
       }
     
     h1{
         min-height: 15%;
         height: 15%;
         color: #212121;
-        font-size: large;
+        font-size: 3.0vw;
         padding-top: 15px;
         align-content: center;
     }
@@ -98,17 +123,28 @@
     background-color: #FAFAFA;
     color: inherit;
     }
-    
+
 
     
 }
 
 @media (max-width: 600px){
     .projects{
+        .project-title{
+         margin-top: 50px;
+        }
     .card{
-        padding-top: 50px;
-        width: 95%;
-        min-width: 95%;
+        min-width: 100%;
+        height: 70%;
+        background-color: transparent;
+        box-shadow: none;
+        ::-webkit-scrollbar {
+            display: none;
+        }
+        ::-webkit-scrollbar-thumb:horizontal{
+            display: none;
+        }
+
         ul{
             background-color: white;
             display: none;
@@ -117,14 +153,39 @@
             }
         }
         .projects-container{
-            height: 90%;
-            padding-bottom: 100px;
+            width: 100%;
+            height: 100%;
+            padding-bottom: 200px;
+            padding-left: 0;
+            padding-right: 0;
             .project{
-                width: 80%;
                 min-width: 80%;
-                height: auto;
+             
+                font-weight: 900;
+                a{
+                    h3{
+                        color: white;
+                        font-size: 3.5vh;
+                        background-color: rgb(123, 150, 161, 0.2);;
+                    }
+                    img{
+                        border: 0px;
+                    }
+                }
+            }
+            .project:hover{
+                transform: none;
             }
         }
     }
+    .card:hover {
+        box-shadow:none;
+      }
+
+      a:hover{
+        background-color: transparent;
+        color: inherit;
+        }
+    
 }
 }
