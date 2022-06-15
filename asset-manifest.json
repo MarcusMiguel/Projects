@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Projects/static/css/main.a94301e6.chunk.css",
-    "main.js": "/Projects/static/js/main.c9fe93ca.chunk.js",
-    "main.js.map": "/Projects/static/js/main.c9fe93ca.chunk.js.map",
+    "main.css": "/Projects/static/css/main.512c830f.chunk.css",
+    "main.js": "/Projects/static/js/main.438d3b66.chunk.js",
+    "main.js.map": "/Projects/static/js/main.438d3b66.chunk.js.map",
     "runtime-main.js": "/Projects/static/js/runtime-main.10d2de64.js",
     "runtime-main.js.map": "/Projects/static/js/runtime-main.10d2de64.js.map",
-    "static/js/2.708a306d.chunk.js": "/Projects/static/js/2.708a306d.chunk.js",
-    "static/js/2.708a306d.chunk.js.map": "/Projects/static/js/2.708a306d.chunk.js.map",
+    "static/js/2.dd611375.chunk.js": "/Projects/static/js/2.dd611375.chunk.js",
+    "static/js/2.dd611375.chunk.js.map": "/Projects/static/js/2.dd611375.chunk.js.map",
     "index.html": "/Projects/index.html",
-    "static/css/main.a94301e6.chunk.css.map": "/Projects/static/css/main.a94301e6.chunk.css.map",
-    "static/js/2.708a306d.chunk.js.LICENSE.txt": "/Projects/static/js/2.708a306d.chunk.js.LICENSE.txt",
+    "static/css/main.512c830f.chunk.css.map": "/Projects/static/css/main.512c830f.chunk.css.map",
+    "static/js/2.dd611375.chunk.js.LICENSE.txt": "/Projects/static/js/2.dd611375.chunk.js.LICENSE.txt",
     "static/media/BANKgif.64119110.gif": "/Projects/static/media/BANKgif.64119110.gif",
     "static/media/CRUDgif.eb15948a.gif": "/Projects/static/media/CRUDgif.eb15948a.gif",
     "static/media/ConsultaSystem.d0761996.gif": "/Projects/static/media/ConsultaSystem.d0761996.gif",
@@ -19,12 +19,13 @@
     "static/media/Portfolio.2a9981c6.png": "/Projects/static/media/Portfolio.2a9981c6.png",
     "static/media/angularspa.bcd4f0b8.png": "/Projects/static/media/angularspa.bcd4f0b8.png",
     "static/media/App.scss": "/Projects/static/media/background.20c59e3d.jpg",
-    "static/media/store2.40b53bb3.gif": "/Projects/static/media/store2.40b53bb3.gif"
+    "static/media/store2.40b53bb3.gif": "/Projects/static/media/store2.40b53bb3.gif",
+    "static/media/techstore.429cb9ab.gif": "/Projects/static/media/techstore.429cb9ab.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.10d2de64.js",
-    "static/js/2.708a306d.chunk.js",
-    "static/css/main.a94301e6.chunk.css",
-    "static/js/main.c9fe93ca.chunk.js"
+    "static/js/2.dd611375.chunk.js",
+    "static/css/main.512c830f.chunk.css",
+    "static/js/main.438d3b66.chunk.js"
   ]
 }
