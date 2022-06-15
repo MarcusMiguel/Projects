@@ -76,7 +76,7 @@ export default function Projects({activeProject, setActiveProject}) {
         github: "https://github.com/MarcusMiguel/InstagramInitialPage"
     },
     { 
-        title:  "Portfólio",
+        title:  "Portfolio",
         tags: [tags[2]]  ,
         img: Portfolio ,
         github: "https://github.com/MarcusMiguel/Projects"
