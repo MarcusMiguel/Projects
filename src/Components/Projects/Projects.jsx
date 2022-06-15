@@ -8,6 +8,7 @@ import Instagram from "../../Assets/Images/Instagram.png"
 import Portfolio from "../../Assets/Images/Portfolio.png"
 import Kafka from "../../Assets/Images/Kafka.png"
 import ConsultaSystem from "../../Assets/Images/ConsultaSystem.gif"
+import TechStore from "../../Assets/Images/techstore.gif" 
 
 export default function Projects({activeProject, setActiveProject}) {
   
@@ -16,9 +17,16 @@ export default function Projects({activeProject, setActiveProject}) {
         ".Net",
          "React",
         "Spring",
+        "NodeJs",
     ]
 
     const projectList = [
+    { 
+        title:  "TechStore",
+        tags: [tags[2], tags[4]]  ,
+        img: TechStore ,
+        github: "https://github.com/MarcusMiguel/TechStore/"
+    },
     { 
         title:  "ConsultaSystem",
         tags: [tags[1]]  ,
@@ -82,8 +90,7 @@ export default function Projects({activeProject, setActiveProject}) {
 
     return (
         <div className="projects" id="projects">
-       <div className="project-title">Projetos</div>
-
+       <div className="project-title">Projects</div>
             <div className="card">
                 <ul>
                 {tags.map(tag => {
